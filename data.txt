@@ -1,0 +1,3 @@
+student,322,violet
+teacher,12,32,alan
+course,207,Math,12
